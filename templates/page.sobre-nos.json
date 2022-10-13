@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "center": false
+      }
+    },
+    "893eb85e-af60-4d59-9a57-55a14169a207": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-0": {
+          "type": "title",
+          "settings": {
+            "title": "Como tudo começou",
+            "title_size": "h3"
+          }
+        },
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Na década de 1970, Portugal vivia um momento de crescimento acentuado. E a Baixa de Lisboa era o maior pólo comercial do país. Nesta zona, na rua que outrora foi a Rua do Príncipe, surge o primeiro supermercado português. Ali, existira antes um armazém que vendia cereais avulso, como hoje já raramente se encontram. E foi esta a inspiração para a escolha do nome: Celeiro. Lisboetas e habitantes do resto do país deslocavam-se propositadamente à Baixa para fazerem as suas compras no Celeiro. A oferta especializada e requintada, com todas as secções comuns a um supermercado da actualidade, cativou rapidamente os clientes mais exigentes. Em 1974, foi decidido abrir, em frente a este supermercado, uma loja semelhante às primeiras Reform Haus que começavam a aparecer na Europa. E assim surgiram as lojas Celeiro que hoje conhece.<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Show more",
+            "link": "",
+            "button_size": "large",
+            "button_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-0",
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-1",
+        "template--15942674612397__893eb85e-af60-4d59-9a57-55a14169a207-16656499081175d34d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/thai-food-takeout.jpg",
+        "image_position": "right",
+        "height": "regular",
+        "image_crop": true,
+        "is_fullwidth": false,
+        "remove_margin": false,
+        "text_alignment": "horizontal-center",
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false
+      }
+    },
+    "e5c1b2b9-716f-496e-bf8e-55939a6e5871": {
+      "type": "blog-posts",
+      "blocks": {
+        "template--15942674612397__e5c1b2b9-716f-496e-bf8e-55939a6e5871-1665649902d2085ee1-0": {
+          "type": "info",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comments_number": false
+          }
+        },
+        "template--15942674612397__e5c1b2b9-716f-496e-bf8e-55939a6e5871-1665649902d2085ee1-1": {
+          "type": "title",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15942674612397__e5c1b2b9-716f-496e-bf8e-55939a6e5871-1665649902d2085ee1-0",
+        "template--15942674612397__e5c1b2b9-716f-496e-bf8e-55939a6e5871-1665649902d2085ee1-1"
+      ],
+      "settings": {
+        "title": "As nossas sugestões de leitura",
+        "subheading": "",
+        "blog": "news",
+        "emphasize_first": true,
+        "blog_show_image": true,
+        "image_aspect_ratio": "1.33333",
+        "show_view_all": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "893eb85e-af60-4d59-9a57-55a14169a207",
+    "e5c1b2b9-716f-496e-bf8e-55939a6e5871"
+  ]
+}

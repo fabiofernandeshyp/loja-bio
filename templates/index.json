@@ -1,0 +1,640 @@
+{
+  "sections": {
+    "1653646142d6a7c886": {
+      "type": "slideshow",
+      "blocks": {
+        "1653646142fd3f3126-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HERO_main_1_bb5a1d51-e731-4132-8c2d-24f909f05736.webp",
+            "mobile_image": "shopify:\/\/shop_images\/HERO_main_1_bb5a1d51-e731-4132-8c2d-24f909f05736.webp",
+            "image_alignment": "50% 50%",
+            "caption": "Apenas produtos biológicos!",
+            "title": "Bem-vindos à nossa loja!",
+            "link": "shopify:\/\/collections\/all",
+            "button_label": "Compre agora",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)"
+          }
+        },
+        "1653646142fd3f3126-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image_alignment": "50% 50%",
+            "caption": "Include some awesome images",
+            "title": "Write about yourself",
+            "link": "",
+            "button_label": "Learn more",
+            "color_background_main": "rgba(0,0,0,0)",
+            "color_text_main": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "1653646142fd3f3126-0",
+        "1653646142fd3f3126-1"
+      ],
+      "settings": {
+        "desktop_height": "80vh",
+        "mobile_height": "60vh",
+        "is_fullwidth": true,
+        "alignment": "horizontal-center align-content--vertical-middle",
+        "text_size": "regular",
+        "title_size": "h1",
+        "button_size": "large",
+        "button_style": "solid"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "blocks": {
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "2fe5312e-e69f-45d1-bac2-bcdf636d2cf0": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "quick_buy": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        },
+        "0732fb3a-f464-4724-9427-62214bde5409": {
+          "type": "local_availability",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "price",
+        "title",
+        "2fe5312e-e69f-45d1-bac2-bcdf636d2cf0",
+        "quick_buy",
+        "0732fb3a-f464-4724-9427-62214bde5409"
+      ],
+      "settings": {
+        "heading": "Os mais vendidos",
+        "subheading": "",
+        "show_view_all": true,
+        "style": "slider",
+        "layout": "grid-4 grid-portable-3 grid-lap-2 grid-tiny-1",
+        "products_number": 8,
+        "collection": "mais-vendidos"
+      }
+    },
+    "1655121489db318f96": {
+      "type": "shop-the-look",
+      "blocks": {
+        "1655121489da0fd0f2-0": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1655121489da0fd0f2-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "ffd8f1c9-28ad-4008-a0c2-02d31f483ede": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "1655121489da0fd0f2-2": {
+          "type": "quick_buy",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1655121489da0fd0f2-0",
+        "1655121489da0fd0f2-1",
+        "ffd8f1c9-28ad-4008-a0c2-02d31f483ede",
+        "1655121489da0fd0f2-2"
+      ],
+      "settings": {
+        "heading": "Produtos frescos",
+        "subheading": "",
+        "image": "shopify:\/\/shop_images\/fresh_food_5ed4c2ea-d46c-4d9d-9e25-6cd9a62119d5.webp",
+        "product_list": [
+          "bolacha-de-chocolate",
+          "noodles"
+        ],
+        "color_background_main": "#efefef",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true
+      }
+    },
+    "165406738229739f4d": {
+      "type": "promotion-cards",
+      "blocks": {
+        "16540673826052f668-0": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/promo_bread_27dc722f-4f6d-4b81-b75d-542077a4156a.webp",
+            "caption": "",
+            "title": "Snacks organicos",
+            "subtitle": "",
+            "link": "shopify:\/\/collections\/feijao",
+            "button_label": "Ver mais",
+            "color_background_main": "#f4ede1",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#e1e1e1",
+            "color_hide_borders": true
+          }
+        },
+        "16540673826052f668-1": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/promo_superfoods_242a5de7-13e1-48e3-a56e-6c3013431280.webp",
+            "caption": "",
+            "title": "Snacks organicos",
+            "subtitle": "",
+            "link": "shopify:\/\/collections\/mais-vendidos",
+            "button_label": "Ver mais",
+            "color_background_main": "#f4e5e5",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#e1e1e1",
+            "color_hide_borders": true
+          }
+        },
+        "16540673826052f668-2": {
+          "type": "card",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/promo_pure_7c759baf-9767-4fc0-bee1-99e0ad3d0a9c.webp",
+            "caption": "",
+            "title": "Snacks organicos",
+            "subtitle": "",
+            "link": "shopify:\/\/collections\/molhos",
+            "button_label": "Ver mais",
+            "color_background_main": "#e5edf1",
+            "color_text_main": "rgba(0,0,0,0)",
+            "color_borders_main": "#e1e1e1",
+            "color_hide_borders": true
+          }
+        }
+      },
+      "block_order": [
+        "16540673826052f668-0",
+        "16540673826052f668-1",
+        "16540673826052f668-2"
+      ],
+      "settings": {
+        "heading": "Promotion cards",
+        "subheading": "",
+        "layout": "grid-3 grid-lap-1",
+        "image_aspect_ratio": "1",
+        "text_alignment": "text-align--horizontal-left",
+        "caption_size": "large",
+        "title_size": "h3",
+        "subtitle_size": "regular",
+        "button_size": "large",
+        "button_style": "outline"
+      }
+    },
+    "16541619272fee0e4e": {
+      "type": "collection-list",
+      "blocks": {
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74": {
+          "type": "collection",
+          "settings": {
+            "collection": "feijao"
+          }
+        },
+        "4fd20197-57e5-4687-8996-e9875ddf993f": {
+          "type": "collection",
+          "settings": {
+            "collection": "iogurtes"
+          }
+        },
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1": {
+          "type": "collection",
+          "settings": {
+            "collection": "molhos"
+          }
+        },
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff": {
+          "type": "collection",
+          "settings": {
+            "collection": "snacks"
+          }
+        },
+        "16541619273bcea29e-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "0326ab2b-e4f9-4301-922a-e2e8241f8662": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "b61dc1b1-e696-4dca-a9cb-861c88e95be5": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "c84d42d5-b256-44a8-9c2f-9d37ae4012d1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "ee5b7fe5-b950-43ab-bcf9-9f2a564e8c74",
+        "4fd20197-57e5-4687-8996-e9875ddf993f",
+        "74d1d8df-2b25-4fd0-aafa-d887747b7fc1",
+        "ed3e6d73-9210-4605-8cd0-18ae029e2fff",
+        "16541619273bcea29e-1",
+        "0326ab2b-e4f9-4301-922a-e2e8241f8662",
+        "b61dc1b1-e696-4dca-a9cb-861c88e95be5",
+        "c84d42d5-b256-44a8-9c2f-9d37ae4012d1"
+      ],
+      "settings": {
+        "heading": "Compre por categoria",
+        "show_view_all": true,
+        "style": "slider",
+        "layout": "grid-4 grid-lap-3 grid-palm-2",
+        "image_aspect_ratio": "1.33333"
+      }
+    },
+    "16551304148266b5a5": {
+      "type": "rich-text",
+      "blocks": {
+        "1655130414988486bd-0": {
+          "type": "title",
+          "settings": {
+            "title": "Receitas deliciosas",
+            "title_size": "h2"
+          }
+        },
+        "1655130414988486bd-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Write a big, bold statement about your brand. Catch your visitors attention by using some additional images with your products or store.<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "1655130414988486bd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explorar",
+            "link": "shopify:\/\/blogs\/receitas-2",
+            "button_size": "large",
+            "button_style": "outline"
+          }
+        }
+      },
+      "block_order": [
+        "1655130414988486bd-0",
+        "1655130414988486bd-1",
+        "1655130414988486bd-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/recipes_150921b8-28c7-49f5-be74-c34ee80d63cb.webp",
+        "image_position": "top",
+        "height": "regular",
+        "image_crop": false,
+        "is_fullwidth": true,
+        "remove_margin": false,
+        "text_alignment": "horizontal-center",
+        "color_background_main": "#e1e0d7",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_hide_borders": false
+      }
+    },
+    "16546982542e923b5a": {
+      "type": "featured-product",
+      "blocks": {
+        "16546982534861ca3b-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16546982534861ca3b-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16546982534861ca3b-4": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "16546982534861ca3b-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variants_style": "radio",
+            "show_quantities": "no"
+          }
+        },
+        "16546982534861ca3b-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_quantity_selector": true,
+            "show_price": true
+          }
+        }
+      },
+      "block_order": [
+        "16546982534861ca3b-1",
+        "16546982534861ca3b-0",
+        "16546982534861ca3b-4",
+        "16546982534861ca3b-2",
+        "16546982534861ca3b-3"
+      ],
+      "settings": {
+        "product": "bolacha-de-chocolate",
+        "gallery_pagination": "dots",
+        "show_border": false,
+        "enable_zoom": true,
+        "enable_video_looping": false
+      }
+    },
+    "165407625224b5d2af": {
+      "type": "rich-text",
+      "blocks": {
+        "1654076252f525bcb1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Promoções até 50%<\/strong><\/p>",
+            "text_size": "regular"
+          }
+        },
+        "1654076252f525bcb1-0": {
+          "type": "title",
+          "settings": {
+            "title": "Conheça as nossas promoções",
+            "title_size": "h1"
+          }
+        },
+        "4055a9b7-fa9d-4a7a-b5e0-d052561d6f9c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Limitado ao stock existente<\/p>",
+            "text_size": "regular"
+          }
+        },
+        "1654076252f525bcb1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Saber mais",
+            "link": "",
+            "button_size": "large",
+            "button_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "1654076252f525bcb1-1",
+        "1654076252f525bcb1-0",
+        "4055a9b7-fa9d-4a7a-b5e0-d052561d6f9c",
+        "1654076252f525bcb1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/fruit-and-veggie-with-greens.jpg",
+        "image_position": "right",
+        "height": "large",
+        "image_crop": true,
+        "is_fullwidth": true,
+        "remove_margin": false,
+        "text_alignment": "horizontal-left",
+        "color_background_main": "#e1e1e1",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "#e1e1e1",
+        "color_hide_borders": true
+      }
+    },
+    "165597098555c514a4": {
+      "type": "text-columns-images",
+      "blocks": {
+        "1655970985e1e8c596-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/shipping-boxes-in-front-of-red-brick.jpg",
+            "title": "Envio",
+            "caption": "Enviamos os produtos para a sua casa!",
+            "link": ""
+          }
+        },
+        "1655970985e1e8c596-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thai-food-takeout.jpg",
+            "title": "Devoluções",
+            "caption": "Mostre quanto tempo os clientes têm para testar seus produtos",
+            "link": ""
+          }
+        },
+        "1655970985e1e8c596-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/house-plant-on-wooden-slat-wall.jpg",
+            "title": "Recolha",
+            "caption": "Pode recolher a suas encomenda em loja",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655970985e1e8c596-0",
+        "1655970985e1e8c596-1",
+        "1655970985e1e8c596-2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "style": "slider",
+        "layout": "grid-3 grid-lap-2",
+        "border_radius": 200
+      }
+    },
+    "165650871288cb3c80": {
+      "type": "media-with-text-overlay",
+      "blocks": {
+        "1656508712d3848f85-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hands-slice-red-pepper-on-wooden-cutting-board.jpg",
+            "image_alignment": "50% 50%",
+            "video_url": "",
+            "caption": "Conheça",
+            "title": "A nossa melhor promoção",
+            "subtitle": "",
+            "link": "",
+            "button_label": "Saber mais",
+            "color_background_main": "#000000",
+            "color_text_main": "#ffffff",
+            "color_hide_borders": true
+          }
+        }
+      },
+      "block_order": [
+        "1656508712d3848f85-0"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "layout": "grid-1",
+        "height": "large",
+        "alignment": "horizontal-center align-content--vertical-middle",
+        "width": "60%",
+        "caption_size": "regular",
+        "title_size": "h1",
+        "subtitle_size": "regular",
+        "button_size": "large",
+        "button_style": "outline"
+      }
+    },
+    "16551127939786a43a": {
+      "type": "blog-posts",
+      "disabled": true,
+      "blocks": {
+        "165511279388d6ad87-0": {
+          "type": "info",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comments_number": false
+          }
+        },
+        "165511279388d6ad87-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "6d7d92cc-64fe-4f89-9974-bb98f18308a0": {
+          "type": "summary",
+          "disabled": true,
+          "settings": {
+            "excerpt_limit": 20
+          }
+        }
+      },
+      "block_order": [
+        "165511279388d6ad87-0",
+        "165511279388d6ad87-1",
+        "6d7d92cc-64fe-4f89-9974-bb98f18308a0"
+      ],
+      "settings": {
+        "title": "Blog posts",
+        "subheading": "",
+        "blog": "news",
+        "emphasize_first": true,
+        "blog_show_image": true,
+        "image_aspect_ratio": "1.33333",
+        "show_view_all": true
+      }
+    },
+    "16553621956de397b6": {
+      "type": "testimonials",
+      "blocks": {
+        "16553621951e01132c-0": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Luis",
+            "author_title": "Cliente",
+            "quote": "<p>A minha loja Bio preferida , tem um pouco de tudo e há sempre boa disposição.<\/p>"
+          }
+        },
+        "16553621951e01132c-1": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Fábio Fernandes",
+            "author_title": "Cliente",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16553621951e01132c-0",
+        "16553621951e01132c-1"
+      ],
+      "settings": {
+        "heading": "Testemunhos",
+        "subheading": "O que os nossos clientes dizem",
+        "quote_font": "crimson_text_i4",
+        "quote_font_size": 34,
+        "quote_line_height": 1.1,
+        "content_alignment": "center",
+        "color_background_main": "#ebebe5",
+        "color_text_main": "#000000",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "color_hide_borders": true
+      }
+    },
+    "1657094048f07fb2a2": {
+      "type": "marquee",
+      "blocks": {
+        "16570940482780d791-0": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<p>Apenas produtos biológicos<\/p>"
+          }
+        },
+        "17541091-3633-48b6-97e0-ca55f3bf4a9f": {
+          "type": "text",
+          "settings": {
+            "marquee_text": "<p>Fique atento às nossas promoções!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16570940482780d791-0",
+        "17541091-3633-48b6-97e0-ca55f3bf4a9f"
+      ],
+      "settings": {
+        "scroll_direction": "left",
+        "speed": 20,
+        "pause_on_hover": true,
+        "remove_top_margin": false,
+        "color_background_main": "#f4ecf4",
+        "color_text_main": "#000000"
+      }
+    },
+    "1655112847aaa4cc50": {
+      "type": "newsletter",
+      "settings": {
+        "show_icon": true,
+        "title": "Inscreva-se na nossa newsletter",
+        "text": "",
+        "color_background_main": "#000000",
+        "color_text_main": "#ffffff",
+        "color_borders_main": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "1653646142d6a7c886",
+    "featured-collection",
+    "1655121489db318f96",
+    "165406738229739f4d",
+    "16541619272fee0e4e",
+    "16551304148266b5a5",
+    "16546982542e923b5a",
+    "165407625224b5d2af",
+    "165597098555c514a4",
+    "165650871288cb3c80",
+    "16551127939786a43a",
+    "16553621956de397b6",
+    "1657094048f07fb2a2",
+    "1655112847aaa4cc50"
+  ]
+}
